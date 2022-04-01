@@ -1,5 +1,5 @@
 # Prosper Loan Data
-## by Ramy Makram Abdallah Gendy
+## by Ramy Gendy
 
 
 ## Dataset
