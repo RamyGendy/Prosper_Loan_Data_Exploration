@@ -22,3 +22,5 @@
 
 > In the presentation, key insight focus on the correlation between dataset's variables and main interest: The Default.
 Firstly by introducing the Default Variable, then plotting the correlations. used the box plots of default and borrower rate. Then showed the correlation between default and income group using bar chart. In the end, A grid box plot was used to show the relationship between default, credit score range lower, and borrower rate.
+
+that's all
